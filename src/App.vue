@@ -1,6 +1,6 @@
 <script setup>
 import Nasabah from './components/Nasabah.vue'
-import Dashboard from './components/dashboard.vue'
+import Dashboard from './components/Dashboard.vue'
 </script>
 
 <template>
